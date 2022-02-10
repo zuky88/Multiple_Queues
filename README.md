@@ -1,4 +1,4 @@
-# Thread and Queue
+# Multiple Queues
 
 This is multiple Queues process by Threading.
 
